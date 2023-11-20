@@ -34,7 +34,7 @@ export default function Home(props) {
             </p>
             <div className="overlap-2">
               <p className="of-all-emissions">
-                of all CO2 emissions in cities&nbsp;&nbsp;come from motor
+                of all CO2 emissions&nbsp;&nbsp;in cities come from motor
                 vehicle exhaust
               </p>
               <p className="text-wrapper">
